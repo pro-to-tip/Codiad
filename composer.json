@@ -13,5 +13,5 @@
     {
       "apps/{$name}": ["codiad/codiad"]
     }
-  }
+ 
 
